@@ -1,0 +1,24 @@
+{
+  "name": "webApp",
+  "homepage": "https://github.com/badbull/image-sharing-service",
+  "authors": [
+    "Arto Heino"
+  ],
+  "description": "school",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "jquery": "~2.2.0"
+  }
+}
